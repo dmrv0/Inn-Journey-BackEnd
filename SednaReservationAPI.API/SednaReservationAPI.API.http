@@ -1,0 +1,6 @@
+@SednaReservationAPI.API_HostAddress = http://localhost:5167
+
+GET {{SednaReservationAPI.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
